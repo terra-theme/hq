@@ -1,2 +1,3 @@
-# hq
-Terra  Development Head Quarters
+# Terra HQ
+
+Terra Development HeadQuarters
